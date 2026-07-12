@@ -90,11 +90,3 @@ Explore my professional experience, projects, and technical portfolio.
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=ivelisse-feliciano&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![SQL](https://img.shields.io/badge/SQL-blue?logo=mysql)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
